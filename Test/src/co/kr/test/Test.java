@@ -9,5 +9,8 @@ public class Test {
 		System.out.println("master");
 		
 	}
+	
+	
+	public void pre_release() {}
 
 }
