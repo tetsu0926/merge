@@ -12,5 +12,9 @@ public class Test {
 	
 	
 	public void pre_release() {}
+	
+	
+	
+	public void test1() {}
 
 }
