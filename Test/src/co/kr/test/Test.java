@@ -33,4 +33,6 @@ public class Test {
 	
 	public void test6() {}
 
+	public void test6(){}
+
 }
