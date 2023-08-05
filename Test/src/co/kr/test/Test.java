@@ -31,8 +31,6 @@ public class Test {
 		System.out.println("이클립스");
 	}
 
-	public void test6(){
-		System.out.println("인텔리제이..");
-	}
+	public void test6(){}
 
 }
