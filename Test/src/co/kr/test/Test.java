@@ -22,5 +22,7 @@ public class Test {
 	public void test3(){
 		System.out.println("인텔리제이에서 커밋.");
 	}
+	
+	public void test4() {}
 
 }
