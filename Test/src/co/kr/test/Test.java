@@ -27,4 +27,8 @@ public class Test {
 		System.out.println("인텔리제이");
 	}
 
+	public void test5(){
+		System.out.println("dlsxpfflwpdl");
+	}
+
 }
