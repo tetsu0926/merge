@@ -32,7 +32,7 @@ public class Test {
 	}
 
 	public void test6(){
-		System.out.println("이클립스");
+		System.out.println("미치겠네 ㅋ");
 	}
 
 }
