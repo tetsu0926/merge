@@ -19,4 +19,8 @@ public class Test {
 	
 	public void test2() {}
 
+	public void test3(){
+		System.out.println("인텔리제이에서 커밋.");
+	}
+
 }
