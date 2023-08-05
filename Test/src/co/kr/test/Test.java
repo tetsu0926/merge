@@ -15,7 +15,7 @@ public class Test {
 	
 
 	public void test(){
-		System.out.println("이건 이클립스에서 충돌이다.");
+		System.out.println("세탁");
 	}
 
 }
