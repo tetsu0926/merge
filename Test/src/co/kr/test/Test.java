@@ -16,6 +16,7 @@ public class Test {
 
 	public void test(){
 		System.out.println("하필 이떄...");
+		System.out.println("인텔리제이....22");
 	}
 
 }
