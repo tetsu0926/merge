@@ -18,6 +18,7 @@ public class Test {
 
 	public void test(){
 		System.out.println("인텔리제이");
+		System.out.println("귀여워...");
 	}
 
 }
