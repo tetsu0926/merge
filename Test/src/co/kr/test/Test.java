@@ -31,7 +31,10 @@ public class Test {
 		System.out.println("이클립스");
 	}
 	
-	public void test6() {}
+	public void test6() {
+
+		System.out.println("eclipse");
+	}
 
 
 }
