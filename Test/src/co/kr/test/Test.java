@@ -28,7 +28,7 @@ public class Test {
 	}
 
 	public void test5(){
-		System.out.println("dlsxpfflwpdl");
+		System.out.println("이클립스");
 	}
 
 }
