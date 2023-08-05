@@ -12,6 +12,9 @@ public class Test {
 	
 	
 	public void pre_release() {}
+	
+
+	public void test() {}
 
 	public void test(){
 		System.out.println("인텔리제이");
