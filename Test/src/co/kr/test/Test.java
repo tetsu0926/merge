@@ -12,27 +12,5 @@ public class Test {
 	
 	
 	public void pre_release() {}
-	
-	
-	
-	public void test1() {}
-	
-	public void test2() {}
-
-	public void test3(){
-		System.out.println("인텔리제이에서 커밋.");
-	}
-
-	public void test4(){
-		System.out.println("인텔리제이");
-	}
-
-	public void test5(){
-		System.out.println("이클립스");
-	}
-
-	public void test6(){
-		System.out.println("인텔리 - 돌싱글즈");
-	}
 
 }
