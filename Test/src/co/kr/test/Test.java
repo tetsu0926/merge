@@ -32,7 +32,7 @@ public class Test {
 	}
 
 	public void test6(){
-		System.out.println("인텔리제이...");
+		System.out.println("이상하네...이건 이클립스에서 먼저 한거..");
 	}
 
 }
