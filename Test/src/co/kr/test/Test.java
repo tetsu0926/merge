@@ -15,8 +15,9 @@ public class Test {
 	
 
 	public void test(){
-		System.out.println("인텔리제이");
-		System.out.println("이클립스");
+		System.out.println("이건 인텔리제이다..");
 	}
+
+	public void test(){}
 
 }
