@@ -32,7 +32,7 @@ public class Test {
 	}
 
 	public void test6(){
-		System.out.println("충돌이 나야하는데..");
+		System.out.println("인텔리제이...");
 	}
 
 }
