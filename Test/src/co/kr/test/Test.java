@@ -17,9 +17,6 @@ public class Test {
 	public void test(){
 		System.out.println("8/7 - 이클립스에서 작성 ");
 		System.out.println("8/7 - 인텔리제이 작성");
-		System.out.println("오우...새로운 테마...아니 새로운 UI 적응 안된다 ㅎㅎ");
-
-		System.out.println("편해 보이기도 하는데...이건 뭐...음....");
 	}
 
 }
