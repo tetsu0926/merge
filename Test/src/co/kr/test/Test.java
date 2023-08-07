@@ -15,7 +15,8 @@ public class Test {
 	
 
 	public void test(){
-		System.out.println("8/7 인텔리제이 작성");
+		System.out.println("8/7 - 이클립스에서 작성 ");
+		System.out.println("8/7 - 인텔리제이 작성");
 	}
 
 }
