@@ -5,9 +5,15 @@ public class Test {
 	public static final String CODE_CONSTRANTS = "상수";
 	
 	public static void main(String[] args) {
-		
-		System.out.println("master");
-		
+
+		int turmCnt = 50;
+		int dayDiv = 3;
+		// 1번이 큰 값을 구합니다.
+		int firstValue = turmCnt % dayDiv;
+		// 나머지 값들은 동일하게 계산합니다.
+		int otherValues = (turmCnt - firstValue) / dayDiv;
+		System.out.println("1번 값: " + firstValue);
+		System.out.println("나머지 값들: " + otherValues);
 	}
 	
 	
