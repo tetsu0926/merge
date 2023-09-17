@@ -9,6 +9,7 @@ public class Test {
 		
 		System.out.println("====================");
 		System.out.println("====================");
+		System.out.println("____________________");
 		
 		
 		int turmCnt = 50;
