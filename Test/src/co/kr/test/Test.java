@@ -6,6 +6,9 @@ public class Test {
 	
 	public static void main(String[] args) {
 
+		
+		System.out.println("====================");
+		
 		int turmCnt = 50;
 		int dayDiv = 9;
 		// 1번이 큰 값을 구합니다.
