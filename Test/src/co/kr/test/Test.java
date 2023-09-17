@@ -7,12 +7,12 @@ public class Test {
 	public static void main(String[] args) {
 
 		int turmCnt = 50;
-		int dayDiv = 3;
+		int dayDiv = 9;
 		// 1번이 큰 값을 구합니다.
 		int firstValue = turmCnt % dayDiv;
 		// 나머지 값들은 동일하게 계산합니다.
 		int otherValues = (turmCnt - firstValue) / dayDiv;
-		System.out.println("1번 값: " + firstValue);
+		System.out.println("1번 값: " + (firstValue+otherValues));
 		System.out.println("나머지 값들: " + otherValues);
 	}
 	
