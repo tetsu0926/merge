@@ -8,6 +8,8 @@ public class Test {
 
 		
 		System.out.println("====================");
+		System.out.println("====================");
+		
 		
 		int turmCnt = 50;
 		int dayDiv = 9;
