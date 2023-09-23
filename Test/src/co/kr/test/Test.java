@@ -6,11 +6,9 @@ public class Test {
 	
 	public static void main(String[] args) {
 
-		
 
-		System.out.println("+++++++++++++++++++++");
-		System.out.println("====================");
-        System.out.println("+++++++++++++++++++++");
+
+
 
 		int turmCnt = 50;
 		int dayDiv = 9;
