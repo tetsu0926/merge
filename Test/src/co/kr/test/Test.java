@@ -7,6 +7,8 @@ public class Test {
 	public static void main(String[] args) {
 
 
+		// 혹시 모르니..eclipse-git
+		// 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
 
 		int timeOffCnt = 39;
 		System.out.println(timeOffCnt);
