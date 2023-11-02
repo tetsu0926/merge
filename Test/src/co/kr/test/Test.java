@@ -9,6 +9,8 @@ public class Test {
 
 
 
+		
+		String a = "충돌이다.";
 
 		int turmCnt = 50;
 		int dayDiv = 9;
