@@ -8,6 +8,8 @@ public class Test {
 
 
 
+		int timeOffCnt = 39;
+		System.out.println(timeOffCnt);
 
 
 		int turmCnt = 50;
